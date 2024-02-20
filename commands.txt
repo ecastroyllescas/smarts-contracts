@@ -1,0 +1,6 @@
+gh auth login 
+
+git remote add origin https://github.com/ecastroyllescas/smarts-contracts.git
+git add .
+git commit -m ""
+git push origin master
